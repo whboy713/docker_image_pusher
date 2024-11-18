@@ -7,4 +7,4 @@ mysql:8.0.28
 tomcat:10.1.33
 # portainer可视化的容器镜像的图形管理工具
 portainer/portainer
-centos7.5.1804
+centos:centos7.5.1804
