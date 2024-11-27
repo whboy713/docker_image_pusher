@@ -9,5 +9,4 @@ tomcat:10.1.33
 portainer/portainer
 centos:centos7.5.1804
 redis:7.0.10
-gitlab/gitlab-ee
 gitlab/gitlab-ce:17.6.0-ce.0
