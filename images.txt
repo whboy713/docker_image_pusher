@@ -12,4 +12,4 @@ redis:7.0.10
 gitlab/gitlab-ce:17.6.0-ce.0
 debian
 # 大模型相关
-ollama/ollama
+ollama/ollama:latest
