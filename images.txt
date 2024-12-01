@@ -13,3 +13,4 @@ gitlab/gitlab-ce:17.6.0-ce.0
 debian
 # 大模型相关
 ollama/ollama:latest
+centos:7.5.1804
