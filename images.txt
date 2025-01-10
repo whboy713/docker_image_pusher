@@ -4,6 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.28
+mysql:5.7.40
 tomcat:10.1.33
 # portainer可视化的容器镜像的图形管理工具
 portainer/portainer
